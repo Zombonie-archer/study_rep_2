@@ -1,0 +1,148 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a:visited {
+    color: #2E2F42;
+}
+
+.footer a:visited {
+    color: #F4F4FD;
+}
+
+.logo {
+    font-family: "Raleway";
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.logo-web {
+    color: #4D5AE5;
+}
+
+.navigate-ul li a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.navigate-ul li a:hover, .navigate-ul li a:focus {
+    color: #434455;
+}
+
+.navigate-ul li a:active {
+    color: #4D5AE5;
+}
+
+.contacts li a {
+    color: inherit;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.contacts li a:hover, .contacts li a:focus {
+    color: #404BBF;
+}
+
+.hero-image {
+    background-color: #2E2F42;
+}
+
+.hero-image h1 {
+    color: white;
+    text-align: center;
+    font-size: 56px;
+    line-height: 60px;
+}
+
+.order-button {
+    background-color: #4D5AE5;
+    cursor: pointer;
+    line-height: 24px;
+    font-size: 16px;
+    color: white;
+}
+
+.order-button:hover {
+    background-color: #404BBF;
+}
+
+.our-features h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.our-features p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+}
+
+.our-team {
+    background-color: #F4F4FD;
+}
+
+.our-team h2 {
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.our-team li {
+    background-color: white;
+}
+
+.our-team li h3 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+}
+
+.our-team li p {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #434455;
+}
+
+.our-portfolio h2 {
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.our-portfolio h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.our-portfolio p {
+    color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.footer p {
+    font-size: 16px;
+    line-height: 24px;
+}
