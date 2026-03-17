@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #2E2F42;
+    background-color: #fff
 }
 
 a {
@@ -24,8 +25,9 @@ a:visited {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.11;
     color: #2E2F42;
+    letter-spacing: 3%;
 }
 
 .logo-web {
@@ -35,12 +37,13 @@ a:visited {
 .navigate-ul li a {
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     color: #2E2F42;
+    letter-spacing: 2%;
 }
 
 .navigate-ul li a:hover, .navigate-ul li a:focus {
-    color: #434455;
+    color: #404bbf;
 }
 
 .navigate-ul li a:active {
@@ -50,8 +53,9 @@ a:visited {
 .contacts li a {
     color: inherit;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     font-style: normal;
+    letter-spacing: 2%;
 }
 
 .contacts li a:hover, .contacts li a:focus {
@@ -66,31 +70,35 @@ a:visited {
     color: white;
     text-align: center;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.11;
+    letter-spacing: 2%;
 }
 
 .order-button {
     background-color: #4D5AE5;
     cursor: pointer;
-    line-height: 24px;
+    line-height: 1.5;
     font-size: 16px;
     color: white;
+    letter-spacing: 2%;
 }
 
-.order-button:hover {
+.order-button:hover, .order-button:focus  {
     background-color: #404BBF;
 }
 
 .our-features h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 2%;
 }
 
 .our-features p {
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     color: #434455;
+    letter-spacing: 2%;
 }
 
 .our-team {
@@ -99,8 +107,9 @@ a:visited {
 
 .our-team h2 {
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     text-align: center;
+    letter-spacing: 2%;
 }
 
 .our-team li {
@@ -111,33 +120,37 @@ a:visited {
     text-align: center;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    
+    line-height: 1.2;
+    letter-spacing: 2%;    
 }
 
 .our-team li p {
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     text-align: center;
     color: #434455;
+    letter-spacing: 2%;
 }
 
 .our-portfolio h2 {
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     text-align: center;
+    letter-spacing: 2%;
 }
 
 .our-portfolio h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
+    letter-spacing: 2%;
 }
 
 .our-portfolio p {
     color: #434455;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 2%;
 }
 
 .footer {
@@ -151,5 +164,6 @@ a:visited {
 
 .footer p {
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 2%;
 }
