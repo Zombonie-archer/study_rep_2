@@ -16,14 +16,6 @@ ul, ol {
     list-style-type: none;
 }
 
-a:visited {
-    color: #2E2F42;
-}
-
-.footer a:visited {
-    color: #F4F4FD;
-}
-
 .logo {
     font-family: "Raleway";
     text-transform: uppercase;
@@ -72,7 +64,7 @@ a:visited {
     background-color: #2E2F42;
 }
 
-.hero-image h1 {
+.hero-image-h1 {
     color: white;
     text-align: center;
     font-size: 56px;
@@ -86,7 +78,7 @@ a:visited {
     line-height: 1.5;
     font-size: 16px;
     color: white;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.04em;
     font-weight: 500;
 }
 
@@ -94,14 +86,15 @@ a:visited {
     background-color: #404BBF;
 }
 
-.our-features h3 {
+.our-features-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
-.our-features p {
+.our-features-p {
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
@@ -112,18 +105,19 @@ a:visited {
     background-color: #F4F4FD;
 }
 
-.our-team h2 {
+.our-team-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
-.our-team li {
+.our-team-li {
     background-color: white;
 }
 
-.our-team li h3 {
+.our-team-h3 {
     text-align: center;
     font-weight: 500;
     font-size: 20px;
@@ -131,7 +125,7 @@ a:visited {
     letter-spacing: 0.02em;    
 }
 
-.our-team li p {
+.our-team-p {
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
@@ -139,21 +133,22 @@ a:visited {
     letter-spacing: 0.02em;
 }
 
-.our-portfolio h2 {
+.our-portfolio-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
-.our-portfolio h3 {
+.our-portfolio-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
-.our-portfolio p {
+.our-portfolio-p {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
@@ -165,11 +160,11 @@ a:visited {
     color: #F4F4FD;
 }
 
-.footer a {
+.footer-a {
     color: #F4F4FD;
 }
 
-.footer p {
+.footer-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
