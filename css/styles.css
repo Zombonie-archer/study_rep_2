@@ -25,6 +25,7 @@ a:visited {
     font-weight: 700;
     font-size: 18px;
     line-height: 21px;
+    color: #2E2F42;
 }
 
 .logo-web {
@@ -50,6 +51,7 @@ a:visited {
     color: inherit;
     font-size: 16px;
     line-height: 24px;
+    font-style: normal;
 }
 
 .contacts li a:hover, .contacts li a:focus {
