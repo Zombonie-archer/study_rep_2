@@ -1,7 +1,11 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2E2F42;
-    background-color: #fff
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+    background-color: #fff;
+    color: #434455;
 }
 
 a {
@@ -25,40 +29,42 @@ a:visited {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.11;
+    line-height: 1.1666;
     color: #2E2F42;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
 }
 
 .logo-web {
     color: #4D5AE5;
 }
 
-.navigate-ul li a {
+.navigate-a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     color: #2E2F42;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
-.navigate-ul li a:hover, .navigate-ul li a:focus {
+.navigate-a:hover, .navigate-a:focus {
     color: #404bbf;
 }
 
-.navigate-ul li a:active {
+.navigate-a:active {
     color: #4D5AE5;
 }
+.contacts {
+    font-style: normal;
+}
 
-.contacts li a {
+.contacts-a {
     color: inherit;
     font-size: 16px;
     line-height: 1.5;
-    font-style: normal;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
-.contacts li a:hover, .contacts li a:focus {
+.contacts-a:hover, .contacts-a:focus {
     color: #404BBF;
 }
 
@@ -70,8 +76,8 @@ a:visited {
     color: white;
     text-align: center;
     font-size: 56px;
-    line-height: 1.11;
-    letter-spacing: 2%;
+    line-height: 1.0714;
+    letter-spacing: 0.02em;
 }
 
 .order-button {
@@ -80,7 +86,8 @@ a:visited {
     line-height: 1.5;
     font-size: 16px;
     color: white;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    font-weight: 500;
 }
 
 .order-button:hover, .order-button:focus  {
@@ -90,15 +97,15 @@ a:visited {
 .our-features h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.5;
-    letter-spacing: 2%;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .our-features p {
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .our-team {
@@ -109,7 +116,7 @@ a:visited {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .our-team li {
@@ -121,7 +128,7 @@ a:visited {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;    
+    letter-spacing: 0.02em;    
 }
 
 .our-team li p {
@@ -129,28 +136,28 @@ a:visited {
     line-height: 1.5;
     text-align: center;
     color: #434455;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .our-portfolio h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .our-portfolio h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .our-portfolio p {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .footer {
@@ -165,5 +172,5 @@ a:visited {
 .footer p {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
