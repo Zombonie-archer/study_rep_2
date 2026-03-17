@@ -5,7 +5,7 @@ body {
     letter-spacing: 0.02em;
     font-weight: 400;
     background-color: #fff;
-    color: #434455;
+    color: #2E2F42;
 }
 
 a {
@@ -17,12 +17,11 @@ ul, ol {
 }
 
 .logo {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.1666;
-    color: #2E2F42;
     letter-spacing: 0.03em;
 }
 
@@ -34,7 +33,6 @@ ul, ol {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    color: #2E2F42;
     letter-spacing: 0.02em;
 }
 
@@ -91,7 +89,6 @@ ul, ol {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2E2F42;
 }
 
 .our-features-p {
@@ -110,7 +107,6 @@ ul, ol {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
-    color: #2E2F42;
 }
 
 .our-team-li {
@@ -122,7 +118,7 @@ ul, ol {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;    
+    letter-spacing: 0.02em;
 }
 
 .our-team-p {
@@ -138,7 +134,6 @@ ul, ol {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
-    color: #2E2F42;
 }
 
 .our-portfolio-h3 {
